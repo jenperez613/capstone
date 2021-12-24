@@ -1,1 +1,1 @@
-# capstone
+# codecademy capstone project
